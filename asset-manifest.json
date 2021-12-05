@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.094ccf96.chunk.css",
-    "main.js": "/static/js/main.ec94e885.chunk.js",
-    "main.js.map": "/static/js/main.ec94e885.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a1ad776d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a1ad776d.js.map",
-    "static/js/2.d3932b9b.chunk.js": "/static/js/2.d3932b9b.chunk.js",
-    "static/js/2.d3932b9b.chunk.js.map": "/static/js/2.d3932b9b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.094ccf96.chunk.css.map": "/static/css/main.094ccf96.chunk.css.map",
-    "static/js/2.d3932b9b.chunk.js.LICENSE.txt": "/static/js/2.d3932b9b.chunk.js.LICENSE.txt"
+    "main.css": "/clootrack-hiring-contest/static/css/main.094ccf96.chunk.css",
+    "main.js": "/clootrack-hiring-contest/static/js/main.194118b6.chunk.js",
+    "main.js.map": "/clootrack-hiring-contest/static/js/main.194118b6.chunk.js.map",
+    "runtime-main.js": "/clootrack-hiring-contest/static/js/runtime-main.5a24e693.js",
+    "runtime-main.js.map": "/clootrack-hiring-contest/static/js/runtime-main.5a24e693.js.map",
+    "static/js/2.d3932b9b.chunk.js": "/clootrack-hiring-contest/static/js/2.d3932b9b.chunk.js",
+    "static/js/2.d3932b9b.chunk.js.map": "/clootrack-hiring-contest/static/js/2.d3932b9b.chunk.js.map",
+    "index.html": "/clootrack-hiring-contest/index.html",
+    "static/css/main.094ccf96.chunk.css.map": "/clootrack-hiring-contest/static/css/main.094ccf96.chunk.css.map",
+    "static/js/2.d3932b9b.chunk.js.LICENSE.txt": "/clootrack-hiring-contest/static/js/2.d3932b9b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1ad776d.js",
+    "static/js/runtime-main.5a24e693.js",
     "static/js/2.d3932b9b.chunk.js",
     "static/css/main.094ccf96.chunk.css",
-    "static/js/main.ec94e885.chunk.js"
+    "static/js/main.194118b6.chunk.js"
   ]
 }
